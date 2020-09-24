@@ -11,10 +11,10 @@ Quick Pinout Guide
 |                   | NC          |
 |                   | NC          |
 | 5V or 3V          | LED         |
-| A5                | SCL/SCK     |
-| A7                | SDA/MOSI    |
-| B0                | RS/DC       |
-| C9                | RST/RES     |
+| PA5               | SCL/SCK     |
+| PA7               | SDA/MOSI    |
+| PB0               | RS/DC       |
+| PC9               | RST/RES     |
 | GND               | CS          |
 
 What is this project?
